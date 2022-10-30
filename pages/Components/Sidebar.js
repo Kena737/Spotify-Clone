@@ -1,5 +1,6 @@
 import Image from "next/image"
 import { Home, Search, Category  } from "react-iconly"
+
 const Sidebar = () => {
   return (
     <div className="p-7 w-64">
